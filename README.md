@@ -1,2 +1,1 @@
-# PragueParkingV2.0
-G Uppgiften
+# Prague Parking V2.0

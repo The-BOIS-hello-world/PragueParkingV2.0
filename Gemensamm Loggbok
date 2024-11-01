@@ -1,0 +1,64 @@
+Shayan
+- Suttit gemensammt på chalmers grupprum i 9 timmar. Lyckats komma fram till vilken logik vi ska använda, hur och vart.
+- Pushat en liten kod där vi skapat klasserna vi behöver och även funktionen att skapa en bil eller mc. Testat så det funkar.
+- Main.cs - CarorMcRemove() + Bugfix
+- CarManager.cs - RemoveVehicle() + Bugfix
+- McManager.cs - RemoveVehicle() + Bugfix
+- ParkingSpot.cs - CalculateCharge(), priserna kalkyleras och skrivs nu ut, första 10 min gratis
+- Små Bugfixar
+- Rates.txt - En konfig fil som priserna står i, ParkingSpot.cs använder priserna från filen för att beräkna pris
+- Lagt till MS test med 3 funktioner
+- Rates.txt heter nu Konfigfil.txt, den har även antal parkeringsplatser, och ParkingGarage läser ur den för att initiera platserna
+- Ett par små bugfixes med menyn.
+- (Jag och Oliver) Konfig filen kan nu göra allt den ska kunna, inget är hårdkodat längre, allt går att ändra i txt filen
+- (Jag och Oliver) Antalet parkeringsplatser går att ändra i menyn, ändringen ändrar även i txt filen
+
+Basel
+- Suttit gemensammt på chalmers grupprum i 9 timmar. Lyckats komma fram till vilken logik vi ska använda, hur och vart.
+- Pushat en liten kod där vi skapat klasserna vi behöver och även funktionen att skapa en bil eller mc. Testat så det funkar.
+- Vidare utvecklat information sparandet med en nested list och justerat AddCar AddMc så att dom kan användas via den nya listan 
+- Class Vehicle är justerat och en enum skapat för olika vehicle types 
+- Ändrat metod logiken och hur den privata listan används via dom andra ärvda klasserna.
+- Installerat Spectre.console
+- Påbörjat meny
+- Buggfix
+- Lagt till regNumber check
+- Fixade en bug med add car/Mc samt la till en metod så att samma Regnummer inte kan skrivas in
+- la till veiw parkinglot med färgkodning
+- påbörjade json fil sparning
+- försökt lära oss json i ca 16h och till slut insåg vi att det ej ville funka pga vår programupplägg/Logik.
+- Accpeterat förlusten efter 16 timmar och nu har vi gråtit färdigt för dagen :')
+- Påbörjat en ny version aka v2.5
+- Utvecklat vidare och insåg att det inte va tillräckligt OOP så vi får göra om... IGEN :') Vi dog lite inombords.
+- Nu jävlar har vi planerat redigt och miroboardat sönder allt.
+- Nu händer det grejer. Version 3.0 är på G och ser jävligt sexig ut.
+- Lagt till nya fina udnerbara metoder och klass interactions. Vi är fan stolta över vårat hårda arbete. 
+- Lagt till MS test med 3 funktioner
+
+Oliver
+- Suttit gemensammt på chalmers grupprum i 9 timmar. Lyckats komma fram till vilken logik vi ska använda, hur och vart.
+- Pushat en liten kod där vi skapat klasserna vi behöver och även funktionen att skapa en bil eller mc. Testat så det funkar.
+- Vidare utvecklat information sparandet med en nested list och justerat AddCar AddMc så att dom kan användas via den nya listan 
+- Class Vehicle är justerat och en enum skapat för olika vehicle types 
+- Ändrat metod logiken och hur den privata listan används via dom andra ärvda klasserna.
+- Installerat Spectre.console
+- Påbörjat meny
+- Buggfix
+- Lagt till regNumber check
+- Fixade en bug med add car/Mc samt la till en metod så att samma Regnummer inte kan skrivas in
+- la till veiw parkinglot med färgkodning
+- påbörjade json fil sparning
+- försökt lära oss json i ca 16h och till slut insåg vi att det ej ville funka pga vår programupplägg/Logik.
+- Accpeterat förlusten efter 16 timmar och nu har vi gråtit färdigt för dagen :')
+- Påbörjat en ny version aka v2.5
+- Utvecklat vidare och insåg att det inte va tillräckligt OOP så vi får göra om... IGEN :') Vi dog lite inombords.
+- Nu jävlar har vi planerat redigt och miroboardat sönder allt.
+- Nu händer det grejer. Version 3.0 är på G och ser jävligt sexig ut.
+- Lagt till nya fina udnerbara metoder och klass interactions. Vi är fan stolta över vårat hårda arbete. 
+- (Jag och Shayan) Konfig filen kan nu göra allt den ska kunna, inget är hårdkodat längre, allt går att ändra i txt filen
+- (Jag och Shayan) Antalet parkeringsplatser går att ändra i menyn, ändringen ändrar även i txt filen
+
+Martin
+- Suttit gemensammt på chalmers grupprum i 9 timmar. Lyckats komma fram till vilken logik vi ska använda, hur och vart.
+- Pushat en liten kod där vi skapat klasserna vi behöver och även funktionen att skapa en bil eller mc. Testat så det funkar.
+- Lagt till Move Bike, Move Bus, Remove Bike, Remove Buss
