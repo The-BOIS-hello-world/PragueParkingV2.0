@@ -1,0 +1,80 @@
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.exe
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.deps.json
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.runtimeconfig.json
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.AssemblyReference.cache
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfoInputs.cache
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfo.cs
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.sourcelink.json
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\Hellowor.A8372BEF.Up2Date
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\refint\HelloworldPragueparkingv3.dll
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.genruntimeconfig.cache
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\ref\HelloworldPragueparkingv3.dll
+C:\Users\Razer\Source\Repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Konfigfil.txt
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.exe
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Konfigfil.txt
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.deps.json
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.runtimeconfig.json
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.AssemblyReference.cache
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfoInputs.cache
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfo.cs
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.CoreCompileInputs.cache
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.sourcelink.json
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\Hellowor.A8372BEF.Up2Date
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\refint\HelloworldPragueparkingv3.dll
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.genruntimeconfig.cache
+C:\Users\bas_e\Source\Repos\Prague-Parking-iisdV2.0\Hello, world Prague parking v3.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\ref\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.exe
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Konfigfil.txt
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.deps.json
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.runtimeconfig.json
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.AssemblyReference.cache
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfoInputs.cache
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfo.cs
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.CoreCompileInputs.cache
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.sourcelink.json
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\Hellowor.A8372BEF.Up2Date
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\refint\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.genruntimeconfig.cache
+C:\Users\Chalamdor\source\repos\Prague-Parking-V2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\ref\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.exe
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Konfigfil.txt
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.deps.json
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.runtimeconfig.json
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.AssemblyReference.cache
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfoInputs.cache
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.AssemblyInfo.cs
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.csproj.CoreCompileInputs.cache
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.sourcelink.json
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\Hellowor.A8372BEF.Up2Date
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\refint\HelloworldPragueparkingv3.dll
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.pdb
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\HelloworldPragueparkingv3.genruntimeconfig.cache
+C:\Users\Chalamdor\source\repos\PragueParkingV2.0\Hello, world Prague parking v3.0\obj\Debug\net8.0\ref\HelloworldPragueparkingv3.dll
