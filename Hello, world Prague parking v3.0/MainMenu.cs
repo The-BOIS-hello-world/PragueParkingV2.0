@@ -37,10 +37,7 @@ namespace Hello__world_Prague_parking_v3._0
                     AnsiConsole.MarkupLine("[green]Existing parking data loaded successfully.[/]");
                     break;
                 case "Exit":
-
-                    //
                     AnsiConsole.MarkupLine("[green]Exiting...[/]");
-                   
                     return;
             }
 
@@ -191,4 +188,3 @@ namespace Hello__world_Prague_parking_v3._0
         }
     }
 }
-

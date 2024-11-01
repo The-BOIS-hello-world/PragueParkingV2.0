@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloworldPragueparkingv3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f48d94ae0a182fce2e3b4c874740b1f3da7544d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3573f3e62e694ef1d54907088f4d4f5bcc138e4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloworldPragueparkingv3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloworldPragueparkingv3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

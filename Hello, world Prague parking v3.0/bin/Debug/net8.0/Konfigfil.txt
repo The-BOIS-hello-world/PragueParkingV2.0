@@ -1,4 +1,4 @@
 Car: 4
 Motorcycle: 2
-TotalParkingSpots: 100
+TotalParkingSpots: 125
 ParkingSpotSize: 4
