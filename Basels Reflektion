@@ -1,0 +1,23 @@
+Loggbok Reflektion
+1. Sammanfattning
+Det har varit en intensiv period av arbete med vårt projekt, där vi har spenderat nio timmar i Chalmers grupprum för att finslipa vår logik och struktur. Att sitta där tillsammans har verkligen varit en ögonöppnare för mig. Vi har lyckats skapa de klasser som behövs och 
+implementerat funktioner för att registrera både bilar och motorcyklar. Det känns som ett stort steg framåt att ha en mer organiserad datalagring med en nästlade lista, vilket gör att jag känner mig mer säker på hur vi hanterar informationen.
+2. Hur vi/jag löste uppgiften
+Genom att bryta ner uppgiften i mindre delar lyckades vi få en tydlig översikt och riktning. Jag tog initiativet att justera klassen Vehicle och implementera en enum för de olika fordons kategorierna. Att installera Spectre.Console och börja på menyn kändes som en 
+rolig utmaning och gav mig en känsla av att vi verkligen bygger något användbart. Jag är stolt över att ha fixat buggar och implementerat kontroller för registreringsnummer, vilket gör systemet mer pålitligt och användarvänligt.
+3. Utmaningar i uppgiften och hur de löstes
+Utmaningarna var många, och jag måste erkänna att jag kände mig frustrerad när vi kämpade med JSON-sparande under 16 timmar. Det var en tuff insikt att vår initiala logik inte höll, men efter att vi tog oss tid att reflektera och analysera, lyckades vi vända situationen.
+Det kändes som en personlig seger när vi insåg vad som behövde justeras. Att behöva revidera vår kod för att få det att bli mer OOP-vänligt var också en lärdom i sig. Vi har verkligen gett oss själva en utmaning men också en chans att växa.
+4. Hur du skulle lösa uppgiften nästa gång, givet vad du vet nu
+Om jag skulle göra om detta projekt skulle jag definitivt börja med att skissa på en tydligare design. Jag skulle ta mig tid att verkligen definiera klasser och relationer innan jag dyker ner i koden. Det skulle spara mycket tid och frustration. Jag skulle också involvera
+mer testning tidigt i processen, så vi kan fånga problem innan de blir stora huvudvärk.
+5. Slutsats hemuppgift
+Den här hemuppgiften har verkligen varit en resa för mig. Trots alla svårigheter har jag lärt mig så mycket om programmering och projektledning. Det är en stor prestation att se hur vårt system har utvecklats till version 3.0 med nya och förbättrade metoder. Det ger mig
+en verklig känsla av stolthet.
+6. Slutsats kurs
+Kursen har varit både utmanande och givande. Jag har lärt mig att samarbeta med andra, vilket ibland har varit frustrerande men också otroligt värdefullt. Jag känner mig som en mer kapabel programmerare nu och ser fram emot att använda dessa kunskaper framöver. 
+Att ge mig på interfaces känns som nästa stora äventyr, och jag är taggad på att ta mig an den utmaningen också.  Men jag ska säga att det har varit en sjukt svår uppgift och jag är sjukt stolt över oss och hur vi kämpade för att lösa den och slutade med en v3.0. 
+Och ifall vi hade haft lite mer tid så vet jag att vi hade kunnat klara av VG delen också men jag känner att jag lagt så mycket tid på denna uppgift att jag inte har spenderat tillräckligt med min familj. Känslan av att sakna sin fru har varit enorm, alla sena nätter 
+som jag har suttit. Men en sak är jag säker på. Jag har lärt mig så himla mycket under denna uppgift. Bra jobbat Clease!
+
+
