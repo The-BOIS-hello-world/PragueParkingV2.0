@@ -1,1 +1,30 @@
 
+Sammanfattning
+Projektet har varit både utmanande och utvecklande. Vi har spenderat flera intensiva arbetspass, inklusive nio timmar på Chalmers grupprum, där vi fokuserade på att utarbeta logiken och strukturen för vårt
+parkeringssystem. Under dessa timmar lade vi grunden genom att definiera hur systemet skulle hantera in- och utcheckning av bilar och motorcyklar. Vi arbetade iterativt för att skapa de klasser och metoder
+som behövdes för att systemet skulle bli flexibelt och funktionellt, samtidigt som vi lärde oss om de utmaningar som följer med objektorienterad programmering. Trots flera omarbetningar, som ibland var frustrerande, 
+har vi utvecklat ett stabilt system som kan hantera dagens behov och är förberett för framtida utbyggnad.
+
+Hur vi löste uppgiften
+För att lösa uppgiften har vi samarbetat effektivt och delat upp arbetet i mindre hanterbara delar. Mitt fokus har varit på att utveckla datalagringen genom en nästlad lista, vilket har gett oss en bra överblick 
+över parkerade fordon. Genom att justera klassen Vehicle och lägga till en enum för olika fordonstyper har vi kunnat tydliggöra systemets logik. Vi installerade också Spectre.Console för att skapa ett färgkodat 
+användargränssnitt, vilket har tillfört en ny dimension till projektet och gjort det mer användarvänligt.
+
+Utmaningar i uppgiften och hur de löstes
+En stor utmaning har varit att implementera JSON-sparandet. Efter att ha arbetat i 16 timmar för att få det att fungera insåg vi att vår ursprungliga design var för begränsad och behövde omstruktureras. Denna 
+erfarenhet har lärt oss vikten av att vara flexibla och redo att backa när något inte fungerar. Vi insåg också att vår OOP-design inte var tillräckligt solid, vilket ledde till ytterligare omarbetningar av koden. 
+Trots frustrationerna har vi utvecklat en tydlig och genomtänkt plan för systemets logik.
+
+Hur jag skulle lösa uppgiften nästa gång, givet vad jag vet nu
+Om jag fick göra om projektet skulle jag inleda med en tydligare designstrategi för hela systemet. En mer detaljerad plan för datalagring och klassuppbyggnad hade hjälpt oss att undvika flera hinder. Jag skulle 
+också införa enhetstester tidigare i processen för att snabbt upptäcka problem och säkerställa att alla delar fungerar innan vi lägger till mer komplex logik.
+
+Slutsats hemuppgift
+Denna uppgift har varit en mycket lärorik process. Jag känner mig stolt över vår progression till version 3.0 och över hur vi byggt in förbättringar och mer robust funktionalitet i systemet. Att se allt falla på 
+plats och veta att vi byggt något värdefullt känns som en stor prestation.
+
+Slutsats kurs
+Kursen har varit både utmanande och inspirerande. Jag har utvecklat min förståelse för programmering, särskilt i objektorientering och samarbetets betydelse för problemlösning. Det har varit givande att se hur de 
+olika komponenterna i projektet hänger ihop och att få ta sig an en uppgift från flera perspektiv. Nu ser jag fram emot att använda interfaces och ta våra lösningar ett steg längre med en ännu stabilare grund att stå på.
+
+Det här projektet har varit intensivt men väldigt givande, och jag är spänd på att se hur vi fortsätter att utveckla systemet och förbättra dess funktioner.
