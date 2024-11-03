@@ -1,0 +1,36 @@
+Sammanfattning
+Under projektets gång arbetade vi intensivt för att utveckla en fungerande version 2.0 av parkeringssystemet. 
+Vi satte oss ofta tillsammans för att lösa problem och hitta effektiva lösningar, och flera delar av projektet krävde en god samarbetsvilja samt en förmåga att hålla huvudet kallt när små, oväntade buggar dök upp. 
+Från att skapa grundläggande klasser och funktioner till att hantera priskalkylering och konfiguration – vi lärde oss mycket längs vägen och utvecklade projektet till en nivå där det fungerar stabilt och flexibelt.
+
+Hur vi löste uppgiften
+Vi började med att planera systemets övergripande struktur och logik, där vi la särskilt fokus på att skapa klasser som skulle hantera fordon (bil och motorcykel) och deras egenskaper. 
+För att snabbt komma igång testade vi en liten bit av koden genom att skapa de nödvändiga klasserna och en funktion för att lägga till fordon. 
+Vi var många timmar i Chalmers grupprum där vi utarbetade både struktur och funktionalitet, 
+och därefter byggde vi vidare med att implementera de detaljerade kraven, som priskalkylering och ett flexibelt menyval för att justera parkeringsplatser.
+
+Utmaningar i uppgiften och hur de löstes
+En av de största utmaningarna var att implementera en priskalkylering där första tio minuterna skulle vara gratis. Vi ville att priserna skulle vara lätta att ändra utan att behöva gå in och hårdkoda något, 
+vi använde oss av en konfigurationsfil för att hantera prissättning. I samband med detta stötte vi på några små men irriterande buggar, där t.ex. priserna ibland inte uppdaterades korrekt. 
+Vi löste detta genom att gå igenom koden grundligt och sätta ''ConsoleWriteLine'' tester lite här och var i koden.
+
+Metoder och modeller som använts för att lösa uppgiften
+Vi arbetade objektorienterat med hjälp av klasser för de olika delarna av systemet, exempelvis CarManager och McManager för att hantera fordon och RemoveVehicle-funktionerna för att ta bort fordon från systemet. 
+Vi använde en enkel men effektiv logik för att skapa och hantera fordon, där varje del kunde testas isolerat innan vi kopplade ihop systemet. 
+Konfigurationsfilen blev en nyckelkomponent som lästes in vid uppstart för att sätta upp priser och antal platser, vilket gav oss möjlighet att lätt göra justeringar utan att gå in och ändra direkt i koden.
+
+Hur jag skulle lösa uppgiften nästa gång, givet vad jag vet nu
+Om jag skulle göra detta igen, skulle jag nog börja med att lägga ännu mer tid på att definiera strukturen och logiken för projektet innan vi börjar koda. 
+Med facit i hand var det några buggar som kunde ha undvikits om vi haft en ännu tydligare struktur från början. 
+Dessutom skulle jag säkerligen utnyttja fler automatiserade tester från start för att identifiera buggar i ett tidigt skede och minska mängden manuell testning. 
+Och så skulle jag komma ihåg att ha kaffe redo – det var nämligen en bristvara under några sena kvällar.
+
+Slutsats hemuppgift
+Hemuppgiften har gett mig bra insikt i hur viktigt det är att ha en välplanerad projektstruktur och att hela tiden testa och utvärdera de lösningar som implementeras. 
+Genom att arbeta tillsammans med andra har jag dessutom insett vikten av att ha en gemensam syn på vad som är viktigast i projektet, så att vi kan fokusera på rätt saker och inte fastna i detaljer.
+
+Slutsats kurs
+Kursen har varit en bra blandning av teori och praktik, och jag har lärt mig mycket om hur man hanterar mer komplexa projekt i ett team. 
+Att få praktisk erfarenhet av att bygga och felsöka system på detta sätt har gett mig bättre förståelse för programmeringens många sidor – 
+och inte minst för alla små oväntade saker som kan dyka upp. 
+Som ett sista råd till framtida kursare kan jag bara säga: var förberedda på att en "liten bug" sällan är så liten som den verkar!
